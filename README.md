@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Unnati Dhut</h1>
 <h3 align="center">I am passiionate about learning.</h3>
 
-- 🔭 I’m currently working on **HTML,CSS**
 
 - 🌱 I’m currently learning **Web Development**
 
